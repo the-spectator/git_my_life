@@ -12,13 +12,13 @@ we are aiming to build to record journal entries in git. You might ask why would
 _git commit_ a journal entry, the offical answer is because journally is like a git commit to the
 life, hence _Git My Life_. Real answer is **Why Not?**
 
-## What is Day In?
+## What is Git My Life?
 
 _Git My Life_ is a git / github backed journaling project.
 
 ## Table of Contents
 
-- [What is Day In?](#what-is-day-in)
+- [What is Git My Life?](#what-is-git-my-life)
 - [Table of Contents](#table-of-contents)
 - [Roadmap](#planned-modules)
 - [Contributing](#contributing)
@@ -35,7 +35,7 @@ _Git My Life_ is a git / github backed journaling project.
 
 ## Contributing
 
-We encourage you to contribute to Day In! Please do follow the common sense opensource etiquette.
+We encourage you to contribute to Git My Life! Please do follow the common sense opensource etiquette.
 
 ## Getting Started
 
